@@ -163,3 +163,7 @@ include
 lib64
 share
 pyvenv.cfg
+
+*.ipynb
+
+*.png
