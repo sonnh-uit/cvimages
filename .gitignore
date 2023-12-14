@@ -166,4 +166,4 @@ pyvenv.cfg
 
 *.ipynb
 
-# *.png
+*.png
